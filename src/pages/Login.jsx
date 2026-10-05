@@ -80,9 +80,7 @@ export default function Login() {
         <p className="auth-link">
           אין לך חשבון? <Link to="/register">הירשם כאן</Link>
         </p>
-        <div className="demo-hint">
-          <small>דמו: admin@books.com / Admin123!</small>
-        </div>
+
       </div>
     </div>
   )

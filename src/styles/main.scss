@@ -272,17 +272,6 @@ img { display: block; max-width: 100%; }
   a { font-weight: 700; color: $primary; }
 }
 
-.demo-hint {
-  text-align: center;
-  margin-top: 16px;
-  padding: 10px 14px;
-  background: linear-gradient(135deg, #f8faff, $primary-light);
-  border-radius: $radius-sm;
-  border: 1px solid rgba(108,99,255,0.15);
-  color: $text-mid;
-  font-size: 0.82rem;
-  font-weight: 500;
-}
 
 // ===== Forms =====
 .form-group {
